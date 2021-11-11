@@ -1,5 +1,5 @@
 {
-  "name": "@coingaming/cookies-next",
+  "name": "@heathmont/cookies-next",
   "version": "2.0.3",
   "description": "Getting, setting and removing cookies on both client and server with next.js",
   "main": "lib/index.js",
