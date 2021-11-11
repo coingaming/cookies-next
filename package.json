@@ -4,6 +4,7 @@
   "description": "Getting, setting and removing cookies on both client and server with next.js",
   "main": "lib/index.js",
   "type": "lib/index.d.ts",
+  "private": false,
   "scripts": {
     "build": "tsc"
   },
